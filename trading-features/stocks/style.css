@@ -1,0 +1,7 @@
+/* Home Button */
+.home {
+  bottom: 1rem;
+  right: 1rem;
+  position: fixed;
+  height: 6rem;
+}
