@@ -20,5 +20,5 @@ google.addEventListener("click", function (e) {
 const home = document.querySelector(".home");
 
 home.addEventListener("click", function () {
-  window.location.href = window.origin + "/" + "investin-ecotrader/";
+  window.location.href = window.origin + "/" + "investin-ecotrader" + "/";
 });
