@@ -1,6 +1,7 @@
 // Home Button :)
-const home = document.querySelector('.home');
+const home = document.querySelector(".home");
 
-home.addEventListener('click', function () {
-  window.location.href = window.origin + '/' + 'trading-features/index.html';
+home.addEventListener("click", function () {
+  window.location.href =
+    window.origin + "/" + "investin-ecotrader" + "trading-features/index.html";
 });
